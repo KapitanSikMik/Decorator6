@@ -1,0 +1,15 @@
+D:\VisualStudioRepos\Dekorator6\Dekorator6\bin\Debug\net6.0\Dekorator6.exe
+D:\VisualStudioRepos\Dekorator6\Dekorator6\bin\Debug\net6.0\Dekorator6.deps.json
+D:\VisualStudioRepos\Dekorator6\Dekorator6\bin\Debug\net6.0\Dekorator6.runtimeconfig.json
+D:\VisualStudioRepos\Dekorator6\Dekorator6\bin\Debug\net6.0\Dekorator6.dll
+D:\VisualStudioRepos\Dekorator6\Dekorator6\bin\Debug\net6.0\Dekorator6.pdb
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.AssemblyInfo.cs
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.dll
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\refint\Dekorator6.dll
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.pdb
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\Dekorator6.genruntimeconfig.cache
+D:\VisualStudioRepos\Dekorator6\Dekorator6\obj\Debug\net6.0\ref\Dekorator6.dll
